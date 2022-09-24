@@ -2,7 +2,7 @@
 
 ![screenshot](assets/images/Work-Day-Schedule.png)
 
-### **Professional Portfolio to be expanded over time**
+### **Work Day Scheduler with Text Entry and Local Storage**
 
 [Portfolio Link](https://jweibelbootcamp.github.io/Professional-Portfolio/)
 
@@ -15,7 +15,7 @@
 * JavaScript
 * Bootstrap
 * jQuery
-* Moment
+* Moment.js
 * Font Awesome
 
 ### **Setup/Installation Instructions**
